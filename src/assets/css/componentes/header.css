@@ -120,8 +120,8 @@
   .menu-header {
     justify-self: flex-start;
     position: static;
-    width: fit-content;
-    height: fit-content;
+    width: auto;
+    height: auto;
     grid-area: menu;
   }
 
